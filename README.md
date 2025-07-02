@@ -28,3 +28,11 @@ This repository contains my daily solutions to LeetCode problems, automatically 
 ## 🏷️ Tags (GitHub Topics)
 
 > leetcode, data-structures, algorithms, daily-practice, leetcode-solutions, github-portfolio
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/ahmedhanyanwar/leetcode-practice/tree/master/0262-trips-and-users) |
+<!---LeetCode Topics End-->
