@@ -37,4 +37,16 @@ This repository contains my daily solutions to LeetCode problems, automatically 
 | [0185-department-top-three-salaries](https://github.com/ahmedhanyanwar/leetcode-practice/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/ahmedhanyanwar/leetcode-practice/tree/master/0262-trips-and-users) |
 | [0601-human-traffic-of-stadium](https://github.com/ahmedhanyanwar/leetcode-practice/tree/master/0601-human-traffic-of-stadium) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ahmedhanyanwar/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ahmedhanyanwar/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ahmedhanyanwar/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
