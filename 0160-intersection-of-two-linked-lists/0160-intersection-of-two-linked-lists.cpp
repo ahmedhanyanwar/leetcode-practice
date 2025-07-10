@@ -8,18 +8,17 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if (!headA || !headB)
-            return nullptr;
-        
-        ListNode *pointer_a = headA;
-        ListNode *pointer_b = headB;
-        while(pointer_a != pointer_b)
-        {
-            pointer_a =pointer_a? pointer_a->next : headB;
-            pointer_b =pointer_b? pointer_b->next : headA;
+    ListNode* getIntersectionNode(ListNode* headA, ListNode* headB) {
+        if (!headA || !headB) return nullptr;
+
+        ListNode* pA = headA;
+        ListNode* pB = headB;
+
+        while (pA != pB) {
+            pA = pA ? pA->next : headB;
+            pB = pB ? pB->next : headA;
         }
 
-        return pointer_a; 
+        return pA;  // Either intersection node or nullptr
     }
 };
